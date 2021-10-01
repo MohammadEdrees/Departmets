@@ -1,0 +1,13 @@
+c:\users\edrees\documents\visual studio 2015\Projects\EF3Last\EF3Last\bin\Debug\EF3Last.exe.config
+c:\users\edrees\documents\visual studio 2015\Projects\EF3Last\EF3Last\bin\Debug\EF3Last.exe
+c:\users\edrees\documents\visual studio 2015\Projects\EF3Last\EF3Last\bin\Debug\EF3Last.pdb
+c:\users\edrees\documents\visual studio 2015\Projects\EF3Last\EF3Last\obj\Debug\EF3Last.csprojResolveAssemblyReference.cache
+c:\users\edrees\documents\visual studio 2015\Projects\EF3Last\EF3Last\obj\Debug\EF3Last.Form1.resources
+c:\users\edrees\documents\visual studio 2015\Projects\EF3Last\EF3Last\obj\Debug\EF3Last.Properties.Resources.resources
+c:\users\edrees\documents\visual studio 2015\Projects\EF3Last\EF3Last\obj\Debug\EF3Last.csproj.GenerateResource.Cache
+c:\users\edrees\documents\visual studio 2015\Projects\EF3Last\EF3Last\obj\Debug\EF3Last.exe
+c:\users\edrees\documents\visual studio 2015\Projects\EF3Last\EF3Last\obj\Debug\EF3Last.pdb
+c:\users\edrees\documents\visual studio 2015\Projects\EF3Last\EF3Last\bin\Debug\EntityFramework.dll
+c:\users\edrees\documents\visual studio 2015\Projects\EF3Last\EF3Last\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\edrees\documents\visual studio 2015\Projects\EF3Last\EF3Last\bin\Debug\EntityFramework.xml
+c:\users\edrees\documents\visual studio 2015\Projects\EF3Last\EF3Last\bin\Debug\EntityFramework.SqlServer.xml
